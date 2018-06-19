@@ -1,4 +1,4 @@
-package org.phoenixframework.channels;
+package org.phoenixframework.channels.javaphoenixchannels;
 
 public enum ChannelEvent {
     CLOSE("phx_close"),

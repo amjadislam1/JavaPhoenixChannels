@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PhoenixNew.iml" filepath="$PROJECT_DIR$/PhoenixNew.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaphoenixchannels/javaphoenixchannels.iml" filepath="$PROJECT_DIR$/javaphoenixchannels/javaphoenixchannels.iml" />
     </modules>
   </component>
 </project>
